@@ -5,3 +5,4 @@ It is late at night when you and your friends discover an abandoned mansion at t
 The front door slowly opens by itself, and a strange sound comes from somewhere inside.
 
 What do you do next?
+[Go down to the basement](basement.md)
