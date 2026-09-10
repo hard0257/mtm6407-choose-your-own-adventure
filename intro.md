@@ -6,3 +6,6 @@ The front door slowly opens by itself, and a strange sound comes from somewhere 
 
 What do you do next?
 [Go down to the basement](basement.md)
+
+* [Enter the mansion](mansion.md)
+- [Enter the mansion through the front door](amit-hallway.md)
