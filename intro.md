@@ -6,4 +6,4 @@ The front door slowly opens by itself, and a strange sound comes from somewhere 
 
 What do you do next?
 
-- [Enter the cabin](cabin.md)
+* [Enter the mansion](mansion.md)
